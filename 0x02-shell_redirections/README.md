@@ -1,2 +1,2 @@
 shell redirections
-Task 0. to Task 22.
+Task 0. to Task 26.
